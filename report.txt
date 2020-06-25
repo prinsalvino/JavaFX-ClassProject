@@ -1,0 +1,21 @@
+Name: Prins Alvino
+Email: prins@gmail.com
+Birth Date:1994/06/23
+Age: 25
+Type: BASIC
+C#: 85
+Java: 80
+
+Name: Justin Hewlett
+Email: justin@gmail.com
+Birth Date:1985/06/23
+Age: 34
+Type: ADMIN
+
+Name: Michael Corneole
+Email: michael@gmail.com
+Birth Date:1980/06/23
+Age: 39
+Type: EDITOR
+Salary: 2000.0
+
